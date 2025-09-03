@@ -14,6 +14,5 @@ function print5() {
 
 var print10 =  function(){
     console.log('inside print10', 10);
-    
 }
  
